@@ -1,0 +1,5 @@
+{
+  "name": "DreamLink",
+  "description": "An application to record, analyze, and connect dreams with others globally using AI. Features text/audio input, dream analysis, a world map of dream connections, and chat rooms.",
+  "requestFramePermissions": []
+}
